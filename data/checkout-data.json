@@ -1,0 +1,12 @@
+{
+  "valid": {
+    "firstName": "Milagros",
+    "lastName": "Corbera",
+    "postalCode": "15001"
+  },
+  "boundary": {
+    "emptyFirstName": "",
+    "emptyLastName": "",
+    "emptyPostalCode": ""
+  }
+}
